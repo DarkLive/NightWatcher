@@ -1,5 +1,7 @@
 ## Scheduled Computer Shutdown Manager. ##
 
+![alt text](https://raw.githubusercontent.com/DarkLive/NightWatcher/master/Screen.jpg)
+
 ### Installation ###
 1. Navigate to `https://github.com/DarkLive/NightWatcher/releases/latest` or click [here](https://github.com/DarkLive/NightWatcher/releases/latest).
 2. Download the latest version.
