@@ -1,3 +1,9 @@
+# This project is discontinued. #
+
+## A newer/improved version of it is avaible on [my new project](https://github.com/DarkLive/Dark-Toolbox) ##
+
+***
+
 ## Scheduled Computer Shutdown Manager. ##
 
 ![alt text](https://raw.githubusercontent.com/DarkLive/NightWatcher/master/Screen.jpg)
